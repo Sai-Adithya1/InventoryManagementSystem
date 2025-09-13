@@ -22,27 +22,6 @@ Designed for small and mid-sized stores to manage:
 
 ---
 
-## How to download and run the software
-
-#### Minimum Requirements: JDK/JRE 16+
-
-1. Download and unzip: [InventoryManagement.zip](InventoryManagement.zip)  
-2. Import database: [InventoryDB.sql](SQL/InventoryDB.sql) via MySQL Workbench  
-3. Default DB credentials:
-    - Username: `root`
-    - Password: `root`
-
-   For custom credentials:
-   - Edit `lib/DBCredentials.xml`:
-     ```xml
-       <entry key="username">your_user</entry>
-       <entry key="password">your_pass</entry>
-     ```
-4. Run `InventoryManagement.jar`
-5. Login with `root / root`
-
----
-
 ## Technologies Used
 
 - Java Swing & JDBC  
@@ -58,13 +37,9 @@ Designed for small and mid-sized stores to manage:
 - **Database** – Connection & credentials  
 - **UI** – Swing-based GUI classes  
 
-[➡ Source Code](src/com/inventory/)
+[➡ Source Code](InventoryManagementSystem-master/src/com/inventory/)
 
----
 
-## Work-in-Progress
-
-Further improvements planned.
 
 ---
 
