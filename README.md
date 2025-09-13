@@ -71,70 +71,36 @@ Further improvements planned.
 ## Application Preview
 
 ### Login Page
-
-The login page takes in the credentials entered by the user and verifies with the database.
-
-![loginpage](screenshots/login.png)
+![loginpage](InventoryManagementSystem-master/screenshots/login.png)
 
 ### Dashboard/Welcome Page
-
-The landing page of the application after a successful login.
-
-![welcome](screenshots/welcome.png)
+![welcome](InventoryManagementSystem-master/screenshots/welcome.png)
 
 ### Products
-
-The products section allows the user to add, edit and delete products from the store's inventory.
-
-![products](screenshots/products.png)
+![products](InventoryManagementSystem-master/screenshots/products.png)
 
 ### Current Stock
-
-This section allows the user to check the availability of every item.
-
-![stock](screenshots/stock.png)
+![stock](InventoryManagementSystem-master/screenshots/stock.png)
 
 ### Suppliers
-
-Here, the user can manage and manipulate the record of all the suppliers associated with the store.
-
-![suppliers](screenshots/suppliers.png)
+![suppliers](InventoryManagementSystem-master/screenshots/suppliers.png)
 
 ### Customers
-
-Allows user to add new customers or update/delete existing customers in the database.
-
-![customers](screenshots/customers.png)
+![customers](InventoryManagementSystem-master/screenshots/customers.png)
 
 ### Sales
-
-This section is where users can sell a product and manage all the sales transactions. 
-The user only needs to enter the customer and product code and the software will handle the rest, showing all the necessary details like available stock and selling price of the product. 
-
-![sales](screenshots/sales.png)
+![sales](InventoryManagementSystem-master/screenshots/sales.png)
 
 ### Purchase
-
-This section is where users can view purchase logs and enter new purchase transactions. Similar to the sales section, this section only requires the user to enter the product code and the details that are already available in the database will immediately be displayed in the respective spaces.
-
-![purchase](screenshots/purchase.png)
+![purchase](InventoryManagementSystem-master/screenshots/purchase.png)
 
 ### Users
-
-This section is only available to **ADMINISTRATORS**. It allows them to view, add and delete any users.
-
-![users](screenshots/users.png)
+![users](InventoryManagementSystem-master/screenshots/users.png)
 
 ### User Logs
-
-Stores and shows the administrator a log of all the users that have previously logged in, including their login time and logout time.
-
-![logs](screenshots/logs.png)
+![logs](InventoryManagementSystem-master/screenshots/logs.png)
 
 ---
 
 ## ER Diagram
-
-The ER diagram for the sample schema that has been used in the application.
-
-![erdiag](screenshots/ERDiagram.png)
+![erdiag](InventoryManagementSystem-master/screenshots/ERDiagram.png)
